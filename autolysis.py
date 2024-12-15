@@ -22,7 +22,8 @@ import sys
 #  "seaborn",
 #  "matplotlib",
 #  "chardet",
-#  "charset-normalizer"
+#  "charset-normalizer",
+#  "ipykernel"
 # ]
 # ///
 
