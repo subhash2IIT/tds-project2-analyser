@@ -416,7 +416,7 @@ def build_readme(summary, chart_paths, repo_dir="."):
         repo_dir (str): Path to the repository directory where README.md resides. Defaults to the current directory.
     """
     # Define the README file path
-    readme_path = os.path.join(repo_dir, "Readme.md")
+    readme_path = os.path.join(repo_dir, "README.md")
 
     # Check if README already exists and load its content if it does
     if os.path.exists(readme_path):
